@@ -41,3 +41,18 @@ nav ul {
 header a, footer a {
   color: white;
 }
+
+article {
+   background-color: white; 
+   border: 1px solid #e3d5c3; 
+   border-radius: 8px;  
+   padding: 16px; 
+   margin-bottom: 16px;
+}
+
+article img {
+   max-width: 100%; 
+   height: auto; 
+} 
+
+
